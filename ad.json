@@ -1,0 +1,42 @@
+{
+    "additionalUserInfo": {
+        "isNewUser": true,
+        "profile": {
+            "at_hash": "Ub0WlZghxTw0siNi2oZfow",
+            "aud": "117938608303-epm3c67b97fuf7041efrvrvp5iapsceu.apps.googleusercontent.com",
+            "azp": "117938608303-f7pb36v2ljj32jlvaargjbnba5sde1ld.apps.googleusercontent.com",
+            "email": "rahulprogramer3@gmail.com",
+            "email_verified": true,
+            "exp": 1687785235,
+            "family_name": "VERMA",
+            "given_name": "rahul",
+            "iat": 1687781635,
+            "iss": "https://accounts.google.com",
+            "locale": "en",
+            "name": "rahul VERMA",
+            "nonce": "kL6ZQWSg9TP52XMlsDY88iYtRnmS7qh0YBTtKuSjg_I",
+            "picture": "https://lh3.googleusercontent.com/a/AAcHTtcf24LogE66xrh10KR_6NPj1TcKb0viM4617d1A=s96-c",
+            "sub": "114341552953970633229"
+        },
+        "providerId": "google.com",
+        "username": null
+    },
+    "user": {
+        "displayName": "rahul VERMA",
+        "email": "rahulprogramer3@gmail.com",
+        "emailVerified": true,
+        "isAnonymous": false,
+        "metadata": [Object
+        ],
+        "multiFactor": [Object
+        ],
+        "phoneNumber": null,
+        "photoURL": "https://lh3.googleusercontent.com/a/AAcHTtcf24LogE66xrh10KR_6NPj1TcKb0viM4617d1A=s96-c",
+        "providerData": [Array
+        ],
+        "providerId": "firebase",
+        "refreshToken": "APZUo0RjWLloYli5c3zbWyxBSwp4w7fH_ar9kHuHEOY5ewJGFr6SOCnFUpmGHYVSn_Veph_yo0VsCo2rP9hVAA75AD7iX7QWANGiRQ_nGD1uzfuEL7pSOx9TYoVyVFcwg_dzkLEeX0fyooe4rMECmtpuVSneAhOf8yE6W5CVjcQwJ8taUlPuBQuLtwp0BY8V8f1Vh1d3RGyU5dg_mDF83bREVKxssNfg0zk87q6CVAg67p5j6MVqaNXY6znxu4b01oH6uIcYPTbgQT6R5Jrpvhj699xhlb25N0imEH01TVZT_Nn_mBvYusVvcsKy1ZPzXWwfS6TxOAdx2Xoy85AP6xlo49CFOodTOBt4y9HM7-rvHxYXfnoGF4QuXcxwtnVtafu2vuXjS1_YxZkuMUELvfbSFM1sTRoWJw",
+        "tenantId": null,
+        "uid": "0sFgZhHsg8NAXTAsUHwGlk0u3sf1"
+    }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "question": "What is {name}'s  level of understanding?",
+    "checkboxQuestion": ["Reduced understanding", "Confused", "No interaction"],
+    "radioQuestion": "Fully oriented",
+    "image": "/images/questions/orientation.svg",
+    "title": "Orientation ",
+    "sheet": "Dementia Care Sheet",
+    "article": null
+  },
+  {
+    "question": "How does {name}'s  communicate?",
+    "checkboxQuestion": [
+      " Uses gesture or signs",
+      "Uses note pad",
+      "Unable to communicate"
+    ],
+    "radioQuestion": "Communicates fully",
+    "image": "/images/questions/talk.svg",
+    "title": "Communication ",
+    "sheet": "Dementia Care Sheet",
+    "article": null
+  },
+  {
+    "question": "Does {name}'s  have any vision care needs?",
+    "checkboxQuestion": [
+      "Reading glasses",
+      "Distance glasses",
+      "Visually impaired",
+      "Blind "
+    ],
+    "radioQuestion": "No vision care needs",
+    "image": "/images/questions/vision.svg",
+    "title": "Vision care  ",
+    "sheet": "Vision Care Sheet",
+    "article": "/sheets/healthcare/12"
+  },
+  {
+    "question": "Does {name}'s  have any eye care needs?",
+    "checkboxQuestion": [" Needs regular eye drops", "Other eye care needs"],
+    "radioQuestion": "No eye care needsd",
+    "image": "/images/questions/eye_care.svg",
+    "title": "Eye care  ",
+    "sheet": "Eye Care Sheet",
+    "article": "/sheets/healthcare/6"
+  },
+  {
+    "question": "How is {name}'s  hearing?",
+    "checkboxQuestion": [
+      "Reduced hearing – no hearing aids",
+      "Uses hearing aid(s)",
+      "Deaf"
+    ],
+    "radioQuestion": "No hearing problem",
+    "image": "/images/questions/hearing.svg",
+    "title": "Hearing ",
+    "sheet": "Hearing Care Sheet",
+    "article": null
+  },
+  {
+    "question": "Does {name}'s  have mood and/or behaviour issues?",
+    "checkboxQuestion": [
+      "Gets anxious",
+      "Low mood",
+      "Anger",
+      "Verbally aggressive",
+      "Physically aggressive"
+    ],
+    "radioQuestion": "None",
+    "image": "/images/questions/mood.svg",
+    "title": "Mood/Behaviour  ",
+    "sheet": "Medications Care Sheet",
+    "article": null
+  },
+  {
+    "question": "How does {name}'s  move around?",
+    "checkboxQuestion": [
+      "Falls or stumbles",
+      "Needs help to move from sit to stand and stand to sit ",
+      "Furniture walking",
+      "Needs a walking stick",
+      "Needs a walker or a frame",
+      "Needs a wheelchair",
+      "Unable to move around/bedbound"
+    ],
+    "radioQuestion": "Independent",
+    "image": "/images/questions/mobility.svg",
+    "title": "Mobility ",
+    "sheet": "Mobility Care Sheet",
+    "article": "/sheets/healthcare/8"
+  },
+  {
+    "question": "What help does {name}'s  need from a carer when in bed? ",
+    "checkboxQuestion": [
+      " Needs help to sit up in bed",
+      "Needs help to turn in bed",
+      "Needs help for getting in and out of bed"
+    ],
+    "radioQuestion": "Independent",
+    "image": "/images/questions/care_in_bed.svg",
+    "title": "Care in bed  ",
+    "sheet": "Mobility Care Sheet",
+    "article": "/sheets/healthcare/8"
+  },
+  {
+    "question": "Does {name}'s  need help in washing & dressing? ",
+    "checkboxQuestion": ["Needs help"],
+    "radioQuestion": "Independent",
+    "image": "/images/questions/dressing.svg",
+    "title": "Dressing  ",
+    "sheet": "Washing & Dressing Care Sheet",
+    "article": "/sheets/healthcare/13"
+  },
+  {
+    "question": "What are {name}'s   toileting needs?",
+    "checkboxQuestion": [
+      " Can go to the toilet with help",
+      "Needs bed pan/urinal",
+      "Needs commode ",
+      "Needs incontinence pad"
+    ],
+    "radioQuestion": "Independent",
+    "image": "/images/questions/toilet.svg",
+    "title": "Toileting  ",
+    "sheet": "Bowel Care Sheet",
+    "article": "/sheets/healthcare/16"
+  },
+  {
+    "question": "Does {name}'s  need help with mouth care?",
+    "checkboxQuestion": [" Needs help"],
+    "radioQuestion": "Independent",
+    "image": "/images/questions/mouth.svg",
+    "title": "Mouthcare  ",
+    "sheet": "Mouth Care Sheet",
+    "article": "/sheets/healthcare/10"
+  },
+  {
+    "question": "What help does {name}'s  need to stay hydrated?",
+    "checkboxQuestion": [
+      "Needs encouragement to drink enough",
+      "Needs assistance to drink"
+    ],
+    "radioQuestion": "Drinks independently",
+    "image": "/images/questions/fluid.svg",
+    "title": "Hydration  ",
+    "sheet": "Fluid and hydration Care Sheet",
+    "article": "/sheets/healthcare/15"
+  },
+  {
+    "question": "Does {name}'s  have any specific dietary needs?",
+    "checkboxQuestion": [" Has specific dietary needs", "Dietary supplements"],
+    "radioQuestion": "No specific dietary needs",
+    "image": "/images/questions/diet.svg",
+    "title": "Feeding",
+    "sheet": "Nutrition Care Sheet",
+    "article": "/sheets/healthcare/9"
+  },
+  {
+    "question": "Does {name}'s  have any feeding difficulties?",
+    "checkboxQuestion": [
+      "Chokes or gags on food/drink",
+      "Needs help with feeding ",
+      "Needs tube feeding "
+    ],
+    "radioQuestion": "No difficulty",
+    "image": "/images/questions/feed.svg",
+    "title": "Diet ",
+    "sheet": "Nutrition Care Sheet",
+    "article": "/sheets/healthcare/9"
+  },
+  {
+    "question": "Does {name}'s   have any skin care needs?",
+    "checkboxQuestion": ["Needs creams/ointments", "Needs medications"],
+    "radioQuestion": "No skin care needs",
+    "image": "/images/questions/skin_care.svg",
+    "title": "Skin care  ",
+    "sheet": "Skin Care Sheet",
+    "article": null
+  },
+  {
+    "question": "Is {name}'s  at risk of pressure sores or have pressure sores?",
+    "checkboxQuestion": [
+      " Risk of pressure sores e.g. bedbound",
+      "Early signs of pressure sores ",
+      "Established pressure sores",
+      "Needs regular posture change"
+    ],
+    "radioQuestion": "No pressure sores",
+    "image": "/images/questions/pressure.svg",
+    "title": "Pressure sores ",
+    "sheet": "Pain management Care Sheet",
+    "article": null
+  },
+  {
+    "question": "Does {name}'s  have any pain?",
+    "checkboxQuestion": [
+      " Pain managed by medications as needed",
+      "Severe pain needing regular pain medications"
+    ],
+    "radioQuestion": "No pain",
+    "image": "/images/questions/pain.svg",
+    "title": "Pain control  ",
+    "sheet": "Medications management Care Sheet",
+    "article": null
+  },
+  {
+    "question": "Does {name}'s  have any reactions or allergies that need special precautions with medications or foods? ",
+    "checkboxQuestion": [
+      "Reaction to medications ",
+      "Reaction to foods",
+      "Special precautions needed"
+    ],
+    "radioQuestion": "No known allergies",
+    "image": "/images/questions/medication.svg",
+    "title": "Special precautions  ",
+    "sheet": "Medications management Care Sheet",
+    "article": null
+  },
+  {
+    "question": "What are {name}'s  list of medications and instructions?",
+    "checkboxQuestion": null,
+    "radioQuestion": null,
+    "image": "/images/questions/medicine.svg",
+    "title": "Medications  ",
+    "sheet": "Medications Care Sheet",
+    "article": null
+  },
+  {
+    "question": "Does {name}'s  have any end-of-life preferences, if known?",
+    "checkboxQuestion": ["Yes"],
+    "radioQuestion": "No",
+    "image": "/images/questions/end.svg",
+    "title": "End of life preferences ",
+    "sheet": "End Care Sheet"
+  }
+]

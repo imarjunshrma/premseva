@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "117938608303",
+    "firebase_url": "https://chat-99a52-default-rtdb.firebaseio.com",
+    "project_id": "chat-99a52",
+    "storage_bucket": "chat-99a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117938608303:android:df1a284e8a18aa6b7adc5a",
+        "android_client_info": {
+          "package_name": "com.premseva.app.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117938608303-i0idoh16e6h0ue9g1kjh88ngu3tq7aoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNZq-OH9_huius8c0V-tCCNRc4N5eDjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117938608303-i0idoh16e6h0ue9g1kjh88ngu3tq7aoc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117938608303-epm3c67b97fuf7041efrvrvp5iapsceu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "premseva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
